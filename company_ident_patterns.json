@@ -1,0 +1,23 @@
+{
+    "huggingface": "huggingface",
+    "hugging face": "huggingface",
+    "microsfot": "microsoft",
+    "google": "google",
+    "nvidia": "nvidia",
+    "intel": "intel",
+    "facebook": "facebook",
+    "amazon": "amazon",
+    "ibm": "ibm",
+    "apple": "apple",
+    "openai": "openai",
+    "alibaba": "alibaba",
+    "tencent": "tencent",
+    "baidu": "baidu",
+    "huawei": "huawei",
+    "xiaomi": "xiaomi",
+    "bytedance": "bytedance",
+    "qualcomm": "qualcomm",
+    "amd": "amd",
+    "oracle": "oracle",
+    "aws": "amazon"
+}

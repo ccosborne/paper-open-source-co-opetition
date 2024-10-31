@@ -1,0 +1,85 @@
+pytorch/pytorch
+42052 of 47118 commits have *automatically* identified affiliation
+46410 of 47118 commits have *manually* identified affiliation
+42040 of 46410 commits have both *automatically* and *manually* identified affiliation
+Accuracy: 38923 of 46410, 83.87%
+Accuracy (email): 37097 of 38080, 97.42%
+Accuracy (company_org): 528 of 2167, 24.37%
+aff
+google     1127
+nvidia      237
+unionai      60
+Name: count, dtype: int64
+aff_gt
+volunteer    845
+ibm          306
+quansight    287
+Name: count, dtype: int64
+Accuracy (company_text): 846 of 1014, 83.43%
+Accuracy (bio_text): 27 of 97, 27.84%
+aff
+nvidia      35
+facebook    35
+Name: count, dtype: int64
+aff_gt
+volunteer      35
+amd            30
+sk holdings     5
+Name: count, dtype: int64
+
+tensorflow/tensorflow
+84619 of 92892 commits have *automatically* identified affiliation
+89262 of 92892 commits have *manually* identified affiliation
+84512 of 89262 commits have both *automatically* and *manually* identified affiliation
+Accuracy: 82162 of 89262, 92.05%
+Accuracy (email): 80519 of 81247, 99.10%
+Accuracy (company_org): 574 of 1927, 29.79%
+aff
+akuity           304
+plumerai,larq    177
+googlers         142
+Name: count, dtype: int64
+aff_gt
+volunteer    320
+uptake       284
+plumerai     189
+Name: count, dtype: int64
+Accuracy (company_text): 782 of 900, 86.89%
+Accuracy (bio_text): 110 of 241, 45.64%
+aff
+google    113
+intel      18
+Name: count, dtype: int64
+aff_gt
+volunteer             114
+exarc technologies     17
+Name: count, dtype: int64
+
+huggingface/transformers
+5145 of 8690 commits have *automatically* identified affiliation
+8690 of 8690 commits have *manually* identified affiliation
+5145 of 8690 commits have both *automatically* and *manually* identified affiliation
+Accuracy: 3435 of 8690, 39.53%
+Accuracy (email): 484 of 1003, 48.26%
+Accuracy (company_org): 1148 of 2000, 57.40%
+aff
+huggingface         355
+facebookresearch    285
+saamaresearch        34
+Name: count, dtype: int64
+aff_gt
+huggingface     418
+volunteer       189
+fractalideas     30
+Name: count, dtype: int64
+Accuracy (company_text): 894 of 1087, 82.24%
+Accuracy (bio_text): 909 of 1055, 86.16%
+aff
+huggingface    122
+intel           24
+Name: count, dtype: int64
+aff_gt
+volunteer      70
+huggingface    24
+biggerpan      16
+Name: count, dtype: int64

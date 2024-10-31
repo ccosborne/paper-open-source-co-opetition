@@ -1,0 +1,14 @@
+{
+    "tensorflow/tensorflow": ["tensorflower-gardener"],
+    "google/jax": ["dependabot[bot]", ""],
+    "keras-team/keras": ["tensorflower-gardener", ""],
+    "pytorch/pytorch": ["pytorchmergebot", "onnxbot", "facebook-github-bot", "pytorch-bot[bot]", "pytorchbot", "pytorchupdatebot", "dependabot[bot]"],
+    "huggingface/transformers": ["dependabot[bot]"],
+    "huggingface/diffusers": ["", ""],
+    "DeepRec-AI/DeepRec": ["tensorflower-gardener"],
+    "microsoft/LightGBM": ["GitHubActionsBot", ""],
+    "mindspore-ai/mindspore": ["it-is-a-robot", ""],
+    "PaddlePaddle/Paddle": ["", ""],
+    "catboost/catboost": ["arcadia-devtools", "robot-piglet", "robot-yandex-devtools-repo", "yandex-contrib-robot", "yndx-workfork", "dependabot[bot]", "robot-passport-ci", "YandexBuildBot", "smart-servant"],
+    "mlflow/mlflow": ["mlflow-automation", "dependabot[bot]"]
+}
